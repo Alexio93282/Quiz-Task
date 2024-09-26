@@ -1,5 +1,9 @@
 body{
-    background-image: url(images/Quiz_back.jpg);
+  font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+  background-image: url(images/Quiz_back.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
   background-size: cover;
@@ -11,3 +15,34 @@ body{
     text-align: center;
 }
 
+.btn-container {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+#The-quiz {
+
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.btn-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn {
+  margin: 5px 0;
+  padding: 10px;
+  background: #DC143C;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #6d0000;
+}

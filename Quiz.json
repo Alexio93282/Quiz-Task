@@ -1,5 +1,32 @@
 [
     {
-        "Question": 1
+        "question": "What ended in 1996",
+        "answers": [
+            {"text": "1987", "correct": false},
+            {"text": "1983", "correct": false},
+            {"text": "1995", "correct": true},
+            {"text": "1993", "correct": false}
+         
+        ]
+    },
+    {
+        "question": "where was the decleration of independance signed",
+        "answers": [
+            {"text": "on the bottom of the page", "correct": true},
+            {"text": "the pennsylvania state house", "correct": true},
+            {"text": " in ireland", "correct": false},
+            {"text": "in norway", "correct": false}
+        ]
+    },
+
+    {
+        "question": "how many rings were there made in total in lord of the rings",
+        "answers": [
+            {"text": "1", "correct": false},
+            {"text": "10", "correct": false},
+            {"text": " 3", "correct": false},
+            {"text": "19", "correct": true}
+        ]
     }
 ]
+
