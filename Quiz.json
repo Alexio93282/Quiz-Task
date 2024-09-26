@@ -27,6 +27,42 @@
             {"text": " 3", "correct": false},
             {"text": "19", "correct": true}
         ]
+    },
+    {
+        "question": "what is the greatest manhwa of all time",
+        "answers": [
+            {"text": "The beginning after the end", "correct": true},
+            {"text": "Solo leveling", "correct": false},
+            {"text": "Naruto", "correct": false},
+            {"text": "One piece", "correct": false}
+        ]
+    },
+    {
+        "question": "how many books did tolkien write total",
+        "answers": [
+            {"text": "29", "correct": true},
+            {"text": "80", "correct": false},
+            {"text": " 7", "correct": false},
+            {"text": "58", "correct": false}
+        ]
+    },
+    {
+        "question": "what year did tolkien die",
+        "answers": [
+            {"text": "1980", "correct": false},
+            {"text": "1950", "correct": false},
+            {"text": " 1973", "correct": true},
+            {"text": "1970", "correct": false}
+        ]
+    },
+    {
+        "question": "what was gollums original name",
+        "answers": [
+            {"text": "Smeagol", "correct": true},
+            {"text": "trstan", "correct": false},
+            {"text": "frodo", "correct": false},
+            {"text": "gandalf", "correct": false}
+        ]
     }
 ]
 
