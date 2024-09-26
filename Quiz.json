@@ -63,6 +63,34 @@
             {"text": "frodo", "correct": false},
             {"text": "gandalf", "correct": false}
         ]
+    },
+    {
+        "question": "what is the greatest anime of all time",
+        "answers": [
+            {"text": "Naruto", "correct": false},
+            {"text": "One piece", "correct": true},
+            {"text": "Highschool dxd", "correct": false},
+            {"text": "Mushoku tensei", "correct": false}
+        ]
+    },
+    {
+        "question": "how many priates of the caribbean movies are there",
+        "answers": [
+            {"text": "7", "correct": false},
+            {"text": "4", "correct": false},
+            {"text": "5", "correct": true},
+            {"text": "3", "correct": false}
+        ]
+    },
+    {
+        "question": "How old is Aragorn in lord of the rings",
+        "answers": [
+            {"text": "25", "correct": false},
+            {"text": "33", "correct": false},
+            {"text": "60", "correct": false},
+            {"text": "87", "correct": true}
+        ]
     }
+    
 ]
 
